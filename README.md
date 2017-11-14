@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-#To run
+## To run
   1. npm install
   2. npm start
   3. npm nodestart (on separate terminal window)
